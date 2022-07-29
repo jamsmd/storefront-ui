@@ -1,5 +1,6 @@
 @import "../../helpers";
 .sf-gallery {
+  background-color: red;
   display: flex;
   flex-direction: var(--gallery-flex-direction, column);
   --image-width: var(--gallery-image-width, 100%);
